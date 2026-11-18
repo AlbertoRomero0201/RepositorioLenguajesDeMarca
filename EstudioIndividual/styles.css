@@ -1,0 +1,15 @@
+body {
+
+  div.ContenedorInfo{
+    border: 5px solid #5162ff;
+    padding: 1%;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgb(170, 249, 255);
+    border-radius: 20px;
+  }
+
+}
